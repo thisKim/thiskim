@@ -6,17 +6,22 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          create-react-app deployed on AWS Amplify
-        </p>
-        <a
-          className="App-link"
-          href="https://main.d3t2c2hwvox1ma.amplifyapp.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Deployed APP
-        </a>
+        <h1>thiskim.com</h1>
+        <ol>
+          <li>
+            npx create-react-app helloWorld
+          </li>
+          <li>
+            create helloWorld repo on GitHub
+          </li>
+          <li>
+            connect GitHub and AWS Amplify
+          </li>
+          <li>
+            configure DNS
+          </li>
+        </ol>
+
       </header>
     </div>
   );
