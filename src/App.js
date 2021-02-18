@@ -20,8 +20,13 @@ function App() {
           <li>
             configure DNS
           </li>
+          <li>
+            ???
+          </li>
+          <li>
+            Profit
+          </li>
         </ol>
-
       </header>
     </div>
   );
